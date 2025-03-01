@@ -144,7 +144,7 @@ We welcome contributions. Feel free to **open issues, submit PRs, or suggest new
 
 🔥 Follow my LinkedIn (www.linkedin.com/in/bharath-kumar-reddy2103) for AI & DevOps insights.
 
-📧 Have ideas? Open an issue or drop an email!
+📧 Have ideas? Open an issue or drop an email.
 
 ---
 
