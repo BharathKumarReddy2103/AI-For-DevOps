@@ -127,15 +127,15 @@ o	Use Cases: **Threat detection, vulnerability management**
 Here are some **AI-powered tools** that can enhance DevOps efficiency:
 
 ```sh
-| AI Tool               | Use Case in DevOps                                  |
-|-----------------------|----------------------------------------------------|
-| **GitHub Copilot**    | AI-powered coding for Infrastructure as Code      |
-| **OpenAI Codex**      | Automating shell scripting & configuration management |
-| **AI Ops (AIOps)**    | Intelligent alerting & anomaly detection          |
-| **Hugging Face Models** | Running AI models locally for DevOps automation |
-| **Datadog AI**        | AI-driven monitoring & anomaly detection          |
-| **IBM Watson AIOps**  | Automated incident resolution & IT operations    |
-| **Kubeflow**          | AI-powered Kubernetes management & optimization   |
+ | AI Tool               | Use Case in DevOps                                  |
+ |-----------------------|----------------------------------------------------|
+ | **GitHub Copilot**    | AI-powered coding for Infrastructure as Code      |
+ | **OpenAI Codex**      | Automating shell scripting & configuration management |
+ | **AI Ops (AIOps)**    | Intelligent alerting & anomaly detection          |
+ | **Hugging Face Models** | Running AI models locally for DevOps automation |
+ | **Datadog AI**        | AI-driven monitoring & anomaly detection          |
+ | **IBM Watson AIOps**  | Automated incident resolution & IT operations    |
+ | **Kubeflow**          | AI-powered Kubernetes management & optimization   |
 ```
 
 **Example: Using AI to Generate Terraform Code**
