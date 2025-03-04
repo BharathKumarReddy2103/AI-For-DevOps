@@ -4,7 +4,7 @@
 
 Artificial Intelligence (AI) is transforming software development and content creation by automating repetitive tasks, enhancing efficiency, and improving code quality. This repository explores **five essential AI tools** that can significantly boost productivity for developers, DevOps engineers, and content creators.
 
-Each tool serves a unique purpose, from generating demo applications to assisting in open-source contributions, enhancing code quality, and automating documentation. Whether you're a **software engineer, DevOps practitioner, or content creator**, these AI-powered tools can streamline your workflow and help you achieve more in less time.
+Each tool serves a unique purpose, from generating demo applications to assisting in open-source contributions, enhancing code quality, and automating documentation. Whether you're a **software engineer, DevOps Engineer, or content creator**, these AI-powered tools can streamline your workflow and help you achieve more in less time.
 
 ---
 
