@@ -169,16 +169,12 @@ Now, generate a Python script to automate Kubernetes Ingress creation.
 
 #### **Example: Debugging Kubernetes Pods**  
 
+```text
 I have a Kubernetes pod named 'nginx-pod' that is in 'CrashLoopBackOff' state.
-
-**Follow these steps:**
-
+Follow these steps:
 1. Identify the issue by checking pod logs.
-
 2. Check for resource constraints (CPU/Memory).
-  
 3. Inspect the Kubernetes events.
-  
 4. Analyze the container runtime logs.
 
 Now, generate a step-by-step debugging process.
