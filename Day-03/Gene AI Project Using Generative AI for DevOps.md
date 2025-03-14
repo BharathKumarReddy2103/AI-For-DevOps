@@ -81,7 +81,7 @@ brew install ollama
 
 **Windows Installation**
 
-Download and install Ollama from Ollama's official website.
+Download and install Ollama from Ollama's official website (https://ollama.com/)
 
 **1.2 Download and Run Llama Model**
 
@@ -163,7 +163,7 @@ For those who don't have **high-end GPUs**, Google’s **Gemini API** provides a
 
 **2.1 Get a Google Gemini API Key**
 
-1.	Go to Google AI Studio
+1.	Go to Google AI Studio (https://aistudio.google.com/prompts/new_chat)
 
 2.	Create a new project and generate an **API key**.
 
