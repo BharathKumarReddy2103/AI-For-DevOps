@@ -171,7 +171,7 @@ o	Learn **Python for automation & data analysis.**
 
 o	Explore AI-powered observability tools.
 
-**4.	Gain Hands-on Experience with AI Ops Tools**
+**4.	Gain Hands-on Experience with AIOps Tools**
 
 o	Work with **Datadog AIOps, Dynatrace AIOps, or IBM Watson AIOps.**
 
