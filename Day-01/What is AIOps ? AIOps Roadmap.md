@@ -80,7 +80,7 @@ AIOps continuously monitors **millions of logs** and detects critical warnings *
 
 **•	Example:**
 
-A deprecated **Log4j library** is being used in a microservice. AI Ops **automatically detects** the vulnerability and notifies DevOps to update it.
+A deprecated **Log4j library** is being used in a microservice. AIOps **automatically detects** the vulnerability and notifies DevOps to update it.
 
 **2. Automated Root Cause Analysis**
 
