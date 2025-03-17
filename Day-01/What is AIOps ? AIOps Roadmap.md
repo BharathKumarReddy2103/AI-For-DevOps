@@ -44,9 +44,9 @@ This results in **billions of data points per day. Manually analyzing this data 
 
 ---
 
-**2. What is AI Ops?**
+**2. What is AIOps?**
 
-AI Ops is the application of **AI and ML techniques** to IT operations. It continuously analyzes IT data, detects anomalies, predicts failures, and even automates issue resolution.
+AIOps is the application of **AI and ML techniques** to IT operations. It continuously analyzes IT data, detects anomalies, predicts failures, and even automates issue resolution.
 
 AI Ops operates on **three core principles** (The "Three A’s of AI Ops"):
 
@@ -56,7 +56,7 @@ AI Ops operates on **three core principles** (The "Three A’s of AI Ops"):
 
 **3.	Avoid** – Take proactive actions to prevent outages or security risks.
 
-**How AI Ops Works**
+**How AIOps Works**
 
 **1.	Data Collection:** AI Ops tools integrate with observability platforms (Datadog, Dynatrace, New Relic) to collect logs, metrics, traces, and events.
 
