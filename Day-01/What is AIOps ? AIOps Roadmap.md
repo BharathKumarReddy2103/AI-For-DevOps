@@ -84,7 +84,7 @@ A deprecated **Log4j library** is being used in a microservice. AIOps **automati
 
 **2. Automated Root Cause Analysis**
 
-Manually identifying issues in large-scale CI/CD pipelines (e.g., failing **Jenkins builds**) is time-consuming. AI Ops:
+Manually identifying issues in large-scale CI/CD pipelines (e.g., failing **Jenkins builds**) is time-consuming. AIOps:
 
 •	Analyzes **Jenkins logs** in real-time.
 
