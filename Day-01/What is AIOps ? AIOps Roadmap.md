@@ -18,7 +18,7 @@ Let’s dive in.
 
 ---
 
-**1. Why AI Ops? The Problem Statement**
+**1. Why AIOps? The Problem Statement**
 
 Traditional DevOps and SRE teams rely on **observability platforms** (Datadog, New Relic, Dynatrace) to monitor infrastructure and applications. These platforms generate **millions of telemetry data points per minute** from:
 
@@ -40,7 +40,7 @@ For example, in a large enterprise with:
 
 This results in **billions of data points per day. Manually analyzing this data to detect anomalies, potential failures, or security threats is practically impossible.**
 
-**This is where AI Ops comes in**—it automates data analysis and alerts DevOps teams about potential failures before they cause downtime.
+**This is where AIOps comes in**—it automates data analysis and alerts DevOps teams about potential failures before they cause downtime.
 
 ---
 
