@@ -102,7 +102,7 @@ Manually identifying issues in large-scale CI/CD pipelines (e.g., failing **Jenk
 
 **4. AI-Powered Security Threat Detection**
 
-•	AI Ops flags unusual behavior in cloud workloads (e.g., unauthorized API calls, data exfiltration).
+•	AIOps flags unusual behavior in cloud workloads (e.g., unauthorized API calls, data exfiltration).
 
 •	Detects security vulnerabilities in **Docker containers, Kubernetes clusters, and cloud IAM policies.**
 
