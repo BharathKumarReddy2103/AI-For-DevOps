@@ -173,7 +173,7 @@ o	Explore AI-powered observability tools.
 
 **4.	Gain Hands-on Experience with AI Ops Tools**
 
-o	Work with **Datadog AI Ops, Dynatrace AI Ops, or IBM Watson AI Ops.**
+o	Work with **Datadog AIOps, Dynatrace AIOps, or IBM Watson AIOps.**
 
 o	Build AI-powered **log analysis and alerting systems.**
 
