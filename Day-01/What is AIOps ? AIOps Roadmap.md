@@ -58,7 +58,7 @@ AI Ops operates on **three core principles** (The "Three A’s of AI Ops"):
 
 **How AIOps Works**
 
-**1.	Data Collection:** AI Ops tools integrate with observability platforms (Datadog, Dynatrace, New Relic) to collect logs, metrics, traces, and events.
+**1.	Data Collection:** AIOps tools integrate with observability platforms (Datadog, Dynatrace, New Relic) to collect logs, metrics, traces, and events.
 
 **2.	AI/ML Processing:** AI models analyze this data in real-time to detect anomalies, security threats, or performance degradation.
 
