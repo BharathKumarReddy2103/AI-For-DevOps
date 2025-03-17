@@ -48,7 +48,7 @@ This results in **billions of data points per day. Manually analyzing this data 
 
 AIOps is the application of **AI and ML techniques** to IT operations. It continuously analyzes IT data, detects anomalies, predicts failures, and even automates issue resolution.
 
-AI Ops operates on **three core principles** (The "Three A’s of AI Ops"):
+AIOps operates on **three core principles** (The "Three A’s of AI Ops"):
 
 **1.	Analyze** – Collect and analyze massive amounts of IT data.
 
