@@ -135,11 +135,11 @@ Most **AIOps tools are embedded within observability platforms**—making it eas
 
 ---
 
-**6. How to Become an AI Ops Engineer?**
+**6. How to Become an AIOps Engineer?**
 
-If you’re a **DevOps Engineer, Site Reliability Engineer (SRE), or Cloud Engineer**, transitioning into AI Ops is a great career move.
+If you’re a **DevOps Engineer, Site Reliability Engineer (SRE), or Cloud Engineer**, transitioning into AIOps is a great career move.
 
-**Essential Skills for AI Ops Engineers**
+**Essential Skills for AIOps Engineers**
 
 **1.	Observability & Monitoring** (Datadog, New Relic, Prometheus, Grafana)
 
@@ -151,7 +151,7 @@ If you’re a **DevOps Engineer, Site Reliability Engineer (SRE), or Cloud Engin
 
 **5.	Infrastructure as Code (IaC)** (Terraform, Kubernetes, Docker)
 
-**Roadmap to AI Ops Engineer**
+**Roadmap to AIOps Engineer**
 
 **1.	Master Observability & Telemetry**
 
