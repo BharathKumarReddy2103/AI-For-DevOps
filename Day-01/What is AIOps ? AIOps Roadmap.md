@@ -72,11 +72,11 @@ o	Automate root cause analysis
 
 ---
 
-**3. Key Use Cases of AI Ops**
+**3. Key Use Cases of AIOps**
 
 **1. Anomaly Detection & Early Warning Systems**
 
-AI Ops continuously monitors **millions of logs** and detects critical warnings **before they escalate into incidents.**
+AIOps continuously monitors **millions of logs** and detects critical warnings **before they escalate into incidents.**
 
 **•	Example:**
 
@@ -94,7 +94,7 @@ Manually identifying issues in large-scale CI/CD pipelines (e.g., failing **Jenk
 
 **3. Performance Optimization & Incident Prevention**
 
-•	AI Ops can predict Kubernetes **pod crashes** by analyzing resource consumption trends.
+•	AIOps can predict Kubernetes **pod crashes** by analyzing resource consumption trends.
 
 •	Detects memory leaks and performance bottlenecks in microservices.
 
