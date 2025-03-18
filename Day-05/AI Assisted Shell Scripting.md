@@ -184,7 +184,7 @@ Now, let’s **extend** our script with an **additional feature:**
 ./aws_vpc_creation.sh create
 ```
 
- ✅ **Creates the VPC & Subnet.**
+   ✅ **Creates the VPC & Subnet.**
  
 •	If the user runs:
 
@@ -192,7 +192,7 @@ Now, let’s **extend** our script with an **additional feature:**
 ./aws_vpc_creation.sh teardown
 ```
 
- ✅ **Deletes the VPC & Subnet.**
+   ✅ **Deletes the VPC & Subnet.**
  
 **Hint: Modify the script to include:**
 
