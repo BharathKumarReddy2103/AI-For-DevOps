@@ -34,7 +34,7 @@ For example:
 
 **Installing GitHub Copilot for AI Pair Programming**
 
-To leverage **AI assistance for shell scripting**, we will use **itHub Copilot**:
+To leverage **AI assistance for shell scripting**, we will use **GitHub Copilot**:
 
 **Steps to Install GitHub Copilot:**
 
