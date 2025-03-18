@@ -42,7 +42,7 @@ To leverage **AI assistance for shell scripting**, we will use **GitHub Copilot*
 
 **2.**	Navigate to the **Extensions tab**.
 
-**3.	Search for "GitHub Copilot"** and click Install.
+**3.	Search for "GitHub Copilot"** and click **Install**.
 
 **4.	Enable GitHub Copilot** to assist with script writing.
 
