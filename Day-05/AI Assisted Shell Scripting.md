@@ -1,6 +1,7 @@
 **AI-Assisted Shell Scripting for DevOps:**
 
 **Introduction**
+
 In the evolving landscape of **DevOps**, automation plays a crucial role in simplifying workflows and reducing manual intervention. **Shell scripting** has long been a core skill for DevOps engineers, helping automate infrastructure tasks efficiently. With the advent of **AI-assisted development**, tools like **GitHub Copilot** are revolutionizing the way engineers write scripts.
 
 In this guide, we'll explore how **AI-assisted shell scripting** can be leveraged to automate AWS infrastructure provisioning. Specifically, we'll use **GitHub Copilot** to generate a **Bash script** for creating an **AWS VPC with a public subnet**. We'll also discuss **best practices** for AI-assisted coding, security considerations, and an assignment to extend the script.
