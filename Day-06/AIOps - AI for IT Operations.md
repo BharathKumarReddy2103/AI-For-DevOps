@@ -61,7 +61,9 @@ AI Ops platforms leverage machine learning models to **analyze historical observ
 **Example Use Case:**
 
 •	An e-commerce app sees a memory spike every morning from 6 AM to 7 AM.
+
 •	Traditional monitoring may catch the spike too late.
+
 •	AI Ops can detect this **recurring pattern** and alert the team in advance.
 
 With AI Ops:
