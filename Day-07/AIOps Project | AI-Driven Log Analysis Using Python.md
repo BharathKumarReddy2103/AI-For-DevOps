@@ -1,4 +1,4 @@
-**AI-Driven Log Analysis Using Python and Isolation Forest**
+**AI-Driven Log Analysis Using Python and Isolation Forest:**
 
 **Introduction**
 
