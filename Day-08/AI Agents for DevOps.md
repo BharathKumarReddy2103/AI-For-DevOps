@@ -23,7 +23,6 @@ We will walk through a hands-on project where we use two AI agents to research a
 - [Best Practices](#best-practices)
 - [Limitations and Future Improvements](#limitations-and-future-improvements)
 - [Conclusion](#conclusion)
-- [Further Reading](#further-reading)
 
 ---
 
