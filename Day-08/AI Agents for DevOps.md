@@ -177,4 +177,4 @@ This is just the beginning — future videos and projects can expand this into T
 
 ---
 
-*If you found this useful, consider starring the repository and contributing to the discussion
+If you found this useful, consider starring the repository and contributing to the discussion
