@@ -1,4 +1,4 @@
-# AI Agents for DevOps Engineers: Automating Kubernetes Research Using CrewAI and Local LLMs
+# AI Agents for DevOps:
 
 ## Introduction
 
