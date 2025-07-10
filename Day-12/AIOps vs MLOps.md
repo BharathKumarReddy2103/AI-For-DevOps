@@ -1,5 +1,7 @@
 # 🤖 AI Ops vs ⚙️ MLOps: A DevOps Engineer's Guide
 
+![AI Ops vs MLOps](https://github.com/BharathKumarReddy2103/AI-For-DevOps/blob/main/Day-12/AI%20Ops%20vs%20MLOps.png?raw=true)
+
 In today's cloud-native and AI-powered DevOps landscape, two terms are becoming increasingly popular — **AI Ops** and **MLOps**. But what do they actually mean? Are they interchangeable? Will they replace traditional DevOps or SRE roles?
 
 This article breaks down both concepts clearly with architecture insights, use cases, and actionable learning paths for DevOps and Cloud engineers. Whether you're a DevOps pro looking to upskill or just curious, this guide is for you. 🚀
